@@ -1,0 +1,24 @@
+.button-container {
+  margin-top: 100px;
+  /* height: 100px; */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container button {
+  width: 100%;
+  padding: 1rem 2rem;
+  border-radius: 0.25rem;
+  border: none;
+  background: blueviolet;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.button-container button:disabled {
+  background: #888;
+  cursor: not-allowed;
+}

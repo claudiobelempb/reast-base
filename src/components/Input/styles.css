@@ -1,0 +1,12 @@
+.input-container {
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.input-container input {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  border-radius: 0.25rem;
+  border: none;
+}

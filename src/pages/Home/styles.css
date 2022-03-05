@@ -1,0 +1,13 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background: #eee;
+  padding: 30px;
+}
+
+.text-container {
+  padding: 1rem 0;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
